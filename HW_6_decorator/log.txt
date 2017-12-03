@@ -1,0 +1,13 @@
+Extract text from http://raybradbury.ru/library/story/63/2/0/ in 0.253999948502 seconds
+Save into data/Bright Phoenix. Рассказ Рэя Брэдбери.txt -- 0.00300002098083 seconds
+Extract text from http://raybradbury.ru/library/story/54/4/0/ in 0.192000150681 seconds
+Save into data/All Summer in a Day. Рассказ Рэя Брэдбери.txt -- 0.00300002098083 seconds
+Extract text from http://raybradbury.ru/library/story/57/10/0/ in 0.19000005722 seconds
+Save into data/Almost the End of the World. Рассказ Рэя Брэдбери.txt -- 0.00299978256226 seconds
+Extract text from http://raybradbury.ru/library/story/95/2/0/ in 0.22200012207 seconds
+Save into data/Another Fine Mess. Рассказ Рэя Брэдбери.txt -- 0.00300002098083 seconds
+Extract text from http://raybradbury.ru/library/story/52/2/0/ in 0.223999977112 seconds
+Save into data/The April Witch. Рассказ Рэя Брэдбери.txt -- 0.00300002098083 seconds
+Save into data/Ray Bredbery.txt -- 0.00399994850159 seconds
+Top words were counted in 14.7230000496 seconds
+Save into data/author_most_using_words.txt -- 0.00300002098083 seconds

@@ -1,0 +1,2 @@
+Write decorator function or class which will intercept console output and write it to a log file. Also log function names of decorated functions when called. 
+Extend your poem-downloading program with this decorator. So all the functions or methods you use are logged to file and no output is sent to console. Do not modify initial code of the functions, use only decorator.
