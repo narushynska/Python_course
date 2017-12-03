@@ -8,13 +8,13 @@ reload(sys)
 sys.setdefaultencoding('utf-8')
 
 LINKS_FILE = 'links.txt'
-OUTHOR = 'Ray Bredbery'
+AUTHOR = 'Ray Bredbery'
 KEY_WORDS_FILE = 'author_most_using_words'
 
 file = open(LINKS_FILE, 'r')
 links = file.read().split('\n')
 
-all_composition = OUTHOR
+all_composition = AUTHOR
 
 start = datetime.now()
 for link in links:
@@ -25,7 +25,7 @@ for link in links:
 end = datetime.now()
 
 print 'All files were downloaded and saved in {diff} seconds'.format(diff=(end - start).seconds)
-save_text__to_file(OUTHOR, all_composition)
+save_text__to_file(AUTHOR, all_composition)
 
 start = datetime.now()
 top_words = get_top_words(all_composition)

@@ -1,0 +1,10 @@
+write script, that will compute time of evaluation range(0, 1000000) with next stuff:
+- while loop;
+- for loop;
+- list comprehension;
+- dict comprehension;
+- set comprehension;
+- func generator;
+
+script must run iterations of all items above and show timing results.
+next update script stuff with some conditions and measure evaluation time again.
